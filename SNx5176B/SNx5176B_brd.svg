@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.4in"
+   x="0in"
+   inkscape:version="0.92.1 r15371"
+   version="1.2"
+   y="0in"
+   height="0.33in"
+   viewBox="0 0 400 330"
+   sodipodi:docname="SNx5176B_brd.svg"
+   id="svg2871">
+  <metadata
+     id="metadata2922">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2920">
+    <inkscape:perspective
+       inkscape:vp_x="0 : 14.85 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 14.85 : 1"
+       sodipodi:type="inkscape:persp3d"
+       id="perspective2924"
+       inkscape:persp3d-origin="18 : 9.9000003 : 1" />
+  </defs>
+  <sodipodi:namedview
+     objecttolerance="10"
+     inkscape:cx="24.969207"
+     inkscape:pageshadow="2"
+     inkscape:window-height="705"
+     inkscape:cy="14.85"
+     bordercolor="#666666"
+     id="namedview2918"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="breadboard"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:zoom="7.9461277"
+     inkscape:window-width="1366"
+     borderopacity="1"
+     inkscape:window-maximized="1"
+     gridtolerance="10" />
+  <g
+     id="breadboard">
+    <rect
+       width="400"
+       x="0"
+       y="30"
+       fill="#303030"
+       height="270"
+       id="middle"
+       stroke-width="0" />
+    <rect
+       width="400"
+       x="0"
+       y="30"
+       fill="#3D3D3D"
+       height="24.6"
+       id="top"
+       stroke-width="0" />
+    <rect
+       width="400"
+       x="0"
+       y="275.4"
+       fill="#000000"
+       height="24.6"
+       id="bottom"
+       stroke-width="0" />
+    <polygon
+       fill="#141414"
+       points="400,30,392.5,54.6,392.5,275.4,400,300"
+       id="right"
+       stroke-width="0" />
+    <polygon
+       fill="#1F1F1F"
+       points="0,30,7.5,54.6,7.5,275.4,0,300"
+       id="left"
+       stroke-width="0" />
+    <polygon
+       fill="#1C1C1C"
+       points="50,115,7.5,114.6,5.6,135.8,5.6,165,50,165"
+       id="left-upper-rect"
+       stroke-width="0" />
+    <polygon
+       fill="#383838"
+       points="7.5,215.5,50,215.5,50,165,5.6,165,5.6,194.2"
+       id="left-lower-rect"
+       stroke-width="0" />
+    <path
+       fill="#262626"
+       id="slot"
+       stroke-width="0"
+       d="M5.6,135.8l0,58.3c14.7,-1.7,26.2,-14,26.2,-29.2C31.8,149.7,20.4,137.5,5.6,135.8z" />
+    <path
+       fill="#303030"
+       id="cover"
+       stroke-width="0"
+       d="M7.5,54.6L7.5,114.5c23.8,4.5,41.9,25.3,41.9,50.4c0,25.1,-18,46,-41.9,50.5L7.5,215.5l50,0L57.5,54.6L7.5,54.6z" />
+    <circle
+       fill="#212121"
+       cx="65"
+       cy="234.7"
+       r="20.6"
+       id="circle2883"
+       stroke-width="0" />
+    <g
+       sodipodi:linespacing="125%"
+       style="font-size:80px;line-height:125%;font-family:OCRA;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;stroke:none;stroke-width:0"
+       id="label"
+       font-size="80"
+       transform="translate(0,-0.94746398)">
+      <g
+         aria-label="SN"
+         style="line-height:0%"
+         id="text16">
+        <path
+           d="m 115.07813,148.39844 q 0,3.39843 -1.60157,6.71875 -1.5625,3.32031 -4.41406,5.625 -3.125,2.5 -7.30469,3.90625 -4.140623,1.40625 -9.999998,1.40625 -6.289062,0 -11.328125,-1.17188 -5,-1.17187 -10.195312,-3.47656 v -9.6875 h 0.546875 q 4.414062,3.67187 10.195312,5.66406 5.78125,1.99219 10.859375,1.99219 7.1875,0 11.171873,-2.69531 4.02344,-2.69532 4.02344,-7.1875 0,-3.86719 -1.91406,-5.70313 -1.875,-1.83594 -5.74219,-2.85156 -2.929688,-0.78125 -6.367188,-1.28906 -3.398437,-0.50782 -7.226562,-1.28907 -7.734375,-1.64062 -11.484375,-5.58593 -3.710938,-3.98438 -3.710938,-10.35156 0,-7.30469 6.171875,-11.95313 6.171875,-4.6875 15.664063,-4.6875 6.132812,0 11.250005,1.17188 5.11718,1.17187 9.0625,2.89062 v 9.14063 h -0.54688 q -3.32031,-2.8125 -8.75,-4.64844 -5.390625,-1.875 -11.054688,-1.875 -6.210937,0 -10,2.57812 -3.75,2.57813 -3.75,6.64063 0,3.63281 1.875,5.70312 1.875,2.07031 6.601563,3.16406 2.5,0.54688 7.109375,1.32813 4.609375,0.78125 7.8125,1.60156 6.48438,1.71875 9.76563,5.19531 3.28125,3.47657 3.28125,9.72657 z"
+           style="line-height:0%"
+           id="path4541" />
+        <path
+           d="m 171.875,165 h -9.57031 L 134.72656,112.96875 V 165 H 127.5 v -58.16406 h 11.99219 l 25.15625,47.5 v -47.5 h 7.22656 z"
+           style="line-height:0%"
+           id="path4543" />
+      </g>
+      <g
+         aria-label="X5176B"
+         style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+         id="text16-6">
+        <path
+           d="m 160.13435,176.65323 -16.72545,23.94927 16.69291,24.50245 h -7.45161 l -13.21115,-19.94688 -13.53655,19.94688 h -7.02859 l 16.88815,-24.20959 -16.49767,-24.24213 h 7.41907 l 13.04845,19.68656 13.34131,-19.68656 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4546" />
+        <path
+           d="m 199.99557,209.71364 q 0,3.38413 -1.23651,6.47541 -1.23651,3.09128 -3.38414,5.20637 -2.34286,2.27778 -5.59684,3.51429 -3.22144,1.20397 -7.48415,1.20397 -3.96985,0 -7.64685,-0.84603 -3.67699,-0.8135 -6.21509,-1.98493 v -6.86589 h 0.45555 q 2.66827,1.69207 6.24764,2.89604 3.57938,1.17143 7.02859,1.17143 2.31033,0 4.45795,-0.65079 2.18017,-0.6508 3.87223,-2.27779 1.43175,-1.39921 2.14763,-3.35159 0.74841,-1.95239 0.74841,-4.52303 0,-2.50557 -0.87857,-4.23017 -0.84603,-1.72461 -2.3754,-2.76588 -1.69207,-1.23652 -4.13255,-1.72461 -2.40795,-0.52064 -5.40161,-0.52064 -2.8635,0 -5.53176,0.39048 -2.63572,0.39048 -4.55557,0.78095 v -24.958 h 29.15564 v 5.69446 h -22.87546 v 12.88575 q 1.39921,-0.13016 2.8635,-0.19524 1.46429,-0.0651 2.5381,-0.0651 3.93731,0 6.89843,0.68333 2.96112,0.6508 5.43415,2.34287 2.60318,1.78969 4.03493,4.62065 1.43175,2.83096 1.43175,7.09367 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4548" />
+        <path
+           d="m 240.05203,225.10495 h -26.22706 v -4.94605 h 10.08733 v -32.47469 h -10.08733 v -4.42541 q 2.05001,0 4.39287,-0.3254 2.34287,-0.35793 3.54684,-1.00873 1.49683,-0.81349 2.34286,-2.05001 0.87857,-1.26905 1.00873,-3.38413 h 5.04367 v 43.66837 h 9.89209 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4550" />
+        <path
+           d="m 285.37994,183.9096 -21.93181,41.19535 h -6.96351 l 23.33102,-42.75726 h -27.59373 v -5.69446 h 33.15803 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4552" />
+        <path
+           d="m 328.39752,209.38824 q 0,7.38653 -4.88096,12.07226 -4.84843,4.65318 -11.90956,4.65318 -3.57937,0 -6.50795,-1.10635 -2.92858,-1.10635 -5.17383,-3.28652 -2.79842,-2.7008 -4.32779,-7.15875 -1.49683,-4.45795 -1.49683,-10.73812 0,-6.44288 1.36667,-11.42146 1.39921,-4.97859 4.42541,-8.85082 2.8635,-3.677 7.38653,-5.727 4.52303,-2.08255 10.54289,-2.08255 1.91985,0 3.22144,0.1627 1.30159,0.1627 2.63572,0.58572 v 6.21509 h -0.3254 q -0.91111,-0.48809 -2.76588,-0.91111 -1.82223,-0.45556 -3.74207,-0.45556 -6.99606,0 -11.16115,4.39287 -4.16509,4.36033 -4.84842,11.81194 2.73334,-1.65953 5.36906,-2.50556 2.66826,-0.87857 6.15002,-0.87857 3.09127,0 5.43414,0.58571 2.3754,0.55318 4.84842,2.27779 2.86351,1.98492 4.29526,5.01112 1.46428,3.0262 1.46428,7.35399 z m -6.60557,0.26032 q 0,-3.0262 -0.91111,-5.01113 -0.87858,-1.98492 -2.92858,-3.44921 -1.49683,-1.04128 -3.31906,-1.36667 -1.82223,-0.3254 -3.80715,-0.3254 -2.76588,0 -5.14129,0.65079 -2.3754,0.6508 -4.88096,2.01747 -0.0651,0.71587 -0.0976,1.39921 -0.0325,0.6508 -0.0325,1.65953 0,5.14128 1.04127,8.13494 1.07381,2.96112 2.92858,4.68573 1.49683,1.43175 3.22144,2.11508 1.75715,0.6508 3.80715,0.6508 4.71827,0 7.41907,-2.8635 2.7008,-2.89604 2.7008,-8.29764 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4554" />
+        <path
+           d="m 375.12463,210.20173 q 0,3.61192 -1.36667,6.3778 -1.36667,2.76588 -3.677,4.55557 -2.73334,2.14762 -6.01985,3.05874 -3.25398,0.91111 -8.29765,0.91111 h -17.181 v -48.45172 h 14.35004 q 5.30399,0 7.93971,0.39047 2.63572,0.39048 5.04366,1.62699 2.66826,1.39921 3.87224,3.61192 1.20397,2.18016 1.20397,5.2389 0,3.44922 -1.75715,5.8897 -1.75715,2.40794 -4.68573,3.87223 v 0.26032 q 4.91351,1.00873 7.74447,4.32779 2.83096,3.28652 2.83096,8.33018 z m -10.83575,-21.83418 q 0,-1.75715 -0.58571,-2.96112 -0.58572,-1.20398 -1.88731,-1.95239 -1.52937,-0.87857 -3.70953,-1.07381 -2.18017,-0.22778 -5.4016,-0.22778 h -7.67939 v 13.9921 h 8.33018 q 3.0262,0 4.81589,-0.29286 1.78968,-0.32539 3.31905,-1.30159 1.52937,-0.97619 2.14763,-2.50556 0.65079,-1.56191 0.65079,-3.67699 z m 4.13256,22.0945 q 0,-2.92858 -0.87858,-4.65319 -0.87857,-1.7246 -3.1889,-2.92858 -1.5619,-0.81349 -3.80715,-1.04127 -2.2127,-0.26032 -5.4016,-0.26032 h -10.11987 v 18.02704 h 8.52542 q 4.23017,0 6.93097,-0.42302 2.7008,-0.45556 4.42541,-1.62699 1.82223,-1.26905 2.66826,-2.89604 0.84604,-1.62699 0.84604,-4.19763 z"
+           style="font-size:66.6414566px;line-height:0%;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:5.55345488"
+           id="path4556" />
+      </g>
+    </g>
+    <rect
+       width="30"
+       x="35"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector0pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="35"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector0terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="35,286.6,35,306.6,65,306.6,85,297.4,85,286.6"
+       id="polygon2888"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="35"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector7pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="35"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector7terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="85,43.4,85,32.6,65,23.4,35,23.4,35,43.4"
+       id="polygon2892"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="335"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector3pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="335"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector3terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="315,286.6,315,297.4,335,306.6,365,306.6,365,286.6"
+       id="polygon2896"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="335"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector4pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="335"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector4terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="365,43.4,365,23.4,335,23.4,315,32.6,315,43.4"
+       id="polygon2900"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector1pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector1terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="115,286.6,115,297.4,135,306.6,165,306.6,185,297.4,185,286.6"
+       id="polygon2904"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector6pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector6terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="185,43.4,185,32.6,165,23.4,135,23.4,115,32.6,115,43.4"
+       id="polygon2908"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector2pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector2terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="215,286.6,215,297.4,235,306.6,265,306.6,285,297.4,285,286.6"
+       id="polygon2912"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector5pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector5terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="285,43.4,285,32.6,265,23.4,235,23.4,215,32.6,215,43.4"
+       id="polygon2916"
+       stroke-width="0" />
+  </g>
+</svg>

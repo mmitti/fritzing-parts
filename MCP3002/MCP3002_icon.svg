@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.3in"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="0.33in"
+   viewBox="0 0 300 330"
+   id="svg39"
+   sodipodi:docname="MCP3002_icon.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="7.4494947"
+     inkscape:cx="-3.5877968"
+     inkscape:cy="15.840001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <g
+     id="icon">
+    <rect
+       width="300"
+       x="0"
+       y="30"
+       fill="#303030"
+       height="270"
+       id="middle"
+       stroke-width="0" />
+    <rect
+       width="300"
+       x="0"
+       y="30"
+       fill="#3D3D3D"
+       height="24.6"
+       id="top"
+       stroke-width="0" />
+    <rect
+       width="300"
+       x="0"
+       y="275.4"
+       fill="#000000"
+       height="24.6"
+       id="bottom"
+       stroke-width="0" />
+    <polygon
+       fill="#141414"
+       points="300,30,292.5,54.6,292.5,275.4,300,300"
+       id="right"
+       stroke-width="0" />
+    <polygon
+       fill="#1F1F1F"
+       points="0,30,7.5,54.6,7.5,275.4,0,300"
+       id="left"
+       stroke-width="0" />
+    <polygon
+       fill="#1C1C1C"
+       points="50,115,7.5,114.6,5.6,135.8,5.6,165,50,165"
+       id="left-upper-rect"
+       stroke-width="0" />
+    <polygon
+       fill="#383838"
+       points="7.5,215.5,50,215.5,50,165,5.6,165,5.6,194.2"
+       id="left-lower-rect"
+       stroke-width="0" />
+    <path
+       fill="#262626"
+       id="slot"
+       stroke-width="0"
+       d="M5.6,135.8l0,58.3c14.7,-1.7,26.2,-14,26.2,-29.2C31.8,149.7,20.4,137.5,5.6,135.8z" />
+    <path
+       fill="#303030"
+       id="cover"
+       stroke-width="0"
+       d="M7.5,54.6L7.5,114.5c23.8,4.5,41.9,25.3,41.9,50.4c0,25.1,-18,46,-41.9,50.5L7.5,215.5l50,0L57.5,54.6L7.5,54.6z" />
+    <circle
+       fill="#212121"
+       cx="65"
+       cy="234.7"
+       r="20.6"
+       stroke-width="0"
+       id="circle11" />
+    <g
+       aria-label="ADC"
+       style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+       id="label">
+      <path
+         d="m 118.67188,165 h -8.24219 l -5.70313,-16.21094 H 79.570312 L 73.867187,165 H 66.015625 L 87.1875,106.83594 H 97.5 Z M 102.34375,142.14844 92.148437,113.59375 81.914062,142.14844 Z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4522" />
+      <path
+         d="m 176.64062,135.97656 q 0,7.92969 -3.47656,14.375 -3.4375,6.44531 -9.17969,10 Q 160,162.8125 155.07812,163.90625 150.19531,165 142.1875,165 H 127.5 v -58.16406 h 14.53125 q 8.51562,0 13.51562,1.25 5.03907,1.21094 8.51563,3.35937 5.9375,3.71094 9.25781,9.88282 3.32031,6.17187 3.32031,14.64843 z m -8.08593,-0.11719 q 0,-6.83593 -2.38282,-11.52343 -2.38281,-4.6875 -7.10937,-7.38281 Q 155.625,115 151.75781,114.25781 147.89062,113.47656 142.5,113.47656 h -7.26563 v 44.88281 H 142.5 q 5.58594,0 9.72656,-0.82031 4.17969,-0.82031 7.65625,-3.04687 4.33594,-2.77344 6.48438,-7.30469 2.1875,-4.53125 2.1875,-11.32813 z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4524" />
+      <path
+         d="m 234.14062,160.78125 q -2.14843,0.9375 -3.90625,1.75781 -1.71875,0.82031 -4.53125,1.71875 -2.38281,0.74219 -5.19531,1.25 -2.77344,0.54688 -6.13281,0.54688 -6.32813,0 -11.52344,-1.75782 -5.15625,-1.79687 -8.98437,-5.58593 -3.75,-3.71094 -5.85938,-9.41407 -2.10937,-5.74218 -2.10937,-13.32031 0,-7.1875 2.03125,-12.85156 2.03125,-5.66406 5.85937,-9.57031 3.71094,-3.78906 8.94531,-5.78125 5.27344,-1.99219 11.67969,-1.99219 4.6875,0 9.33594,1.13281 4.6875,1.13282 10.39062,3.98438 v 9.17969 h -0.58593 q -4.80469,-4.02344 -9.53125,-5.85938 -4.72657,-1.83594 -10.11719,-1.83594 -4.41406,0 -7.96875,1.44532 -3.51563,1.40625 -6.28906,4.41406 -2.69532,2.92969 -4.21875,7.42187 -1.48438,4.45313 -1.48438,10.3125 0,6.13281 1.64063,10.54688 1.67968,4.41406 4.29687,7.1875 2.73438,2.89062 6.36719,4.29687 3.67187,1.36719 7.73437,1.36719 5.58594,0 10.46875,-1.91406 4.88282,-1.91407 9.14063,-5.74219 h 0.54687 z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4526" />
+    </g>
+    <rect
+       width="30"
+       x="35"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector0pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="35"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector0terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="35,286.6,35,306.6,65,306.6,85,297.4,85,286.6"
+       stroke-width="0"
+       id="polygon16" />
+    <rect
+       width="30"
+       x="35"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector5pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="35"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector5terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="85,43.4,85,32.6,65,23.4,35,23.4,35,43.4"
+       stroke-width="0"
+       id="polygon20" />
+    <rect
+       width="30"
+       x="235"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector2pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector2terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="215,286.6,215,297.4,235,306.6,265,306.6,265,286.6"
+       stroke-width="0"
+       id="polygon24" />
+    <rect
+       width="30"
+       x="235"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector3pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="235"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector3terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="265,43.4,265,23.4,235,23.4,215,32.6,215,43.4"
+       stroke-width="0"
+       id="polygon28" />
+    <rect
+       width="30"
+       x="135"
+       y="286.6"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector1pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="300"
+       fill="#8C8C8C"
+       height="30"
+       id="connector1terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="115,286.6,115,297.4,135,306.6,165,306.6,185,297.4,185,286.6"
+       stroke-width="0"
+       id="polygon32" />
+    <rect
+       width="30"
+       x="135"
+       y="0"
+       fill="#8C8C8C"
+       height="43.4"
+       id="connector4pin"
+       stroke-width="0" />
+    <rect
+       width="30"
+       x="135"
+       y="0"
+       fill="#8C8C8C"
+       height="30"
+       id="connector4terminal"
+       stroke-width="0" />
+    <polygon
+       fill="#8C8C8C"
+       points="185,43.4,185,32.6,165,23.4,135,23.4,115,32.6,115,43.4"
+       stroke-width="0"
+       id="polygon36" />
+  </g>
+</svg>

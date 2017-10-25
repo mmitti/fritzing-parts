@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.3in"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="0.33in"
+   viewBox="0 0 300 330"
+   id="svg39"
+   sodipodi:docname="SNx5176B_icon.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="7.4494947"
+     inkscape:cx="-3.5877968"
+     inkscape:cy="15.840001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <g
+     id="icon">
+    <path
+       style="fill:#303030;stroke-width:0"
+       d="M 0,30 H 300 V 300 H 0 Z"
+       id="middle" />
+    <path
+       style="fill:#3d3d3d;stroke-width:0"
+       d="M 0,30 H 300 V 54.6 H 0 Z"
+       id="top" />
+    <path
+       style="fill:#000000;stroke-width:0"
+       d="m 0,275.39999 h 300 v 24.6 H 0 Z"
+       id="bottom" />
+    <path
+       style="fill:#141414;stroke-width:0"
+       d="m 300,30 -7.5,24.6 V 275.4 L 300,300 Z"
+       id="right" />
+    <path
+       style="fill:#1f1f1f;stroke-width:0"
+       d="M 0,30 7.5,54.6 V 275.4 L 0,300 Z"
+       id="left" />
+    <path
+       style="fill:#1c1c1c;stroke-width:0"
+       d="M 50,115 7.5,114.6 5.6,135.8 V 165 H 50 Z"
+       id="left-upper-rect" />
+    <path
+       style="fill:#383838;stroke-width:0"
+       d="M 7.5,215.5 H 50 V 165 H 5.6 v 29.2 z"
+       id="left-lower-rect" />
+    <path
+       fill="#262626"
+       id="slot"
+       stroke-width="0"
+       d="M5.6,135.8l0,58.3c14.7,-1.7,26.2,-14,26.2,-29.2C31.8,149.7,20.4,137.5,5.6,135.8z" />
+    <path
+       fill="#303030"
+       id="cover"
+       stroke-width="0"
+       d="M7.5,54.6L7.5,114.5c23.8,4.5,41.9,25.3,41.9,50.4c0,25.1,-18,46,-41.9,50.5L7.5,215.5l50,0L57.5,54.6L7.5,54.6z" />
+    <path
+       style="fill:#212121;stroke-width:0"
+       d="M 85.6,234.7 A 20.6,20.6 0 0 1 65,255.3 20.6,20.6 0 0 1 44.4,234.7 20.6,20.6 0 0 1 65,214.1 20.6,20.6 0 0 1 85.6,234.7 Z"
+       id="circle11" />
+    <g
+       aria-label="TRX"
+       style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+       id="label">
+      <path
+         d="M 114.29688,113.71094 H 93.515625 V 165 H 85.78125 V 113.71094 H 65 v -6.875 h 49.29688 z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4522" />
+      <path
+         d="M 170.3125,165 H 160.27344 L 140.82031,141.875 H 129.92187 V 165 h -7.73437 v -58.16406 h 16.28906 q 5.27344,0 8.78906,0.70312 3.51563,0.66407 6.32813,2.42188 3.16406,1.99219 4.92187,5.03906 1.79688,3.00781 1.79688,7.65625 0,6.28906 -3.16406,10.54687 -3.16407,4.21875 -8.71094,6.36719 z m -18.08594,-41.79687 q 0,-2.5 -0.89844,-4.41407 -0.85937,-1.95312 -2.89062,-3.28125 -1.67969,-1.13281 -3.98438,-1.5625 -2.30468,-0.46875 -5.42968,-0.46875 h -9.10157 v 21.95313 h 7.8125 q 3.67188,0 6.40625,-0.625 2.73438,-0.66407 4.64844,-2.42188 1.75781,-1.64062 2.57813,-3.75 0.85937,-2.14843 0.85937,-5.42968 z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4524" />
+      <path
+         d="m 222.1875,106.83594 -20.07813,28.75 L 222.14844,165 h -8.94532 L 197.34375,141.05469 181.09375,165 h -8.4375 L 192.92969,135.9375 173.125,106.83594 h 8.90625 l 15.66406,23.63281 16.01563,-23.63281 z"
+         style="font-size:80px;font-family:OCRA;text-anchor:start;fill:#dddddd;stroke:none;stroke-width:0"
+         id="path4526" />
+    </g>
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 35,286.60001 h 30 v 43.4 H 35 Z"
+       id="connector0pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 35,300 h 30 v 30 H 35 Z"
+       id="connector0terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 35,286.6 v 20 h 30 l 20,-9.2 v -10.8 z"
+       id="polygon16" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="M 35,0 H 65 V 43.400002 H 35 Z"
+       id="connector5pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="M 35,0 H 65 V 30 H 35 Z"
+       id="connector5terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="M 85,43.4 V 32.6 L 65,23.4 H 35 v 20 z"
+       id="polygon20" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 235,286.60001 h 30 v 43.4 h -30 z"
+       id="connector2pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 235,300 h 30 v 30 h -30 z"
+       id="connector2terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 215,286.6 v 10.8 l 20,9.2 h 30 v -20 z"
+       id="polygon24" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 235,0 h 30 v 43.400002 h -30 z"
+       id="connector3pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 235,0 h 30 v 30 h -30 z"
+       id="connector3terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 265,43.4 v -20 h -30 l -20,9.2 v 10.8 z"
+       id="polygon28" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 135,286.60001 h 30 v 43.4 h -30 z"
+       id="connector1pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 135,300 h 30 v 30 h -30 z"
+       id="connector1terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 115,286.6 v 10.8 l 20,9.2 h 30 l 20,-9.2 v -10.8 z"
+       id="polygon32" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 135,0 h 30 v 43.400002 h -30 z"
+       id="connector4pin" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="m 135,0 h 30 v 30 h -30 z"
+       id="connector4terminal" />
+    <path
+       style="fill:#8c8c8c;stroke-width:0"
+       d="M 185,43.4 V 32.6 l -20,-9.2 h -30 l -20,9.2 v 10.8 z"
+       id="polygon36" />
+  </g>
+</svg>
