@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="18.749998mm"
+   height="12.45051mm"
+   viewBox="0 0 18.75 12.450511"
+   id="svg25"
+   sodipodi:docname="rj45_pcb.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview27"
+     showgrid="false"
+     units="mm"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:lockguides="false"
+     inkscape:zoom="8"
+     inkscape:cx="18.300792"
+     inkscape:cy="18.412238"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="silkscreen">
+    <sodipodi:guide
+       position="1.9750003,4.3928118"
+       orientation="1,0"
+       id="guide4512"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.6864585,4.3928118"
+       orientation="0,1"
+       id="guide4518"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="16.775001,1.1008844"
+       orientation="1,0"
+       id="guide4520"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14.05573,6.692812"
+       orientation="0,1"
+       id="guide4522"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.6648446,9.232812"
+       orientation="0,1"
+       id="guide4524"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.2500001,10.592813"
+       orientation="1,0"
+       id="guide4528"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="17.500001,10.394375"
+       orientation="1,0"
+       id="guide4530"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="9.375001,5.3011453"
+       orientation="1,0"
+       id="guide4532"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <g
+     id="copper0"
+     transform="translate(1.026055,1.3526651)">
+    <g
+       id="copper1">
+      <circle
+         id="connector7pad"
+         connectorname="8"
+         cx="12.793745"
+         cy="1.8650333"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector6pad"
+         connectorname="7"
+         cx="11.523745"
+         cy="4.4050331"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector5pad"
+         connectorname="6"
+         cx="10.253745"
+         cy="1.8650333"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector3pad"
+         connectorname="4"
+         cx="7.7137451"
+         cy="1.8650333"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector1pad"
+         connectorname="2"
+         cx="5.1737452"
+         cy="1.8650333"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector4pad"
+         connectorname="5"
+         cx="8.9837446"
+         cy="4.4050331"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector2pad"
+         connectorname="3"
+         cx="6.4437451"
+         cy="4.4050331"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <circle
+         id="connector0pad"
+         connectorname="1"
+         cx="3.9037449"
+         cy="4.4050331"
+         r="0.71990001"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+      <path
+         d="m 2.9639451,3.4652333 h 1.8796 v 1.8796 h -1.8796 z m 0.4398,0.9398 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:#f7bd13;stroke:none;stroke-width:0" />
+      <circle
+         cx="0.94894516"
+         cy="6.7050328"
+         id="nonconn0"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         r="1.1999997" />
+      <circle
+         cx="15.748945"
+         cy="6.7050328"
+         id="nonconn1"
+         style="fill:#000000;stroke:#000000;stroke-width:0"
+         r="1.1999996" />
+      <circle
+         id="connector7pad-4"
+         connectorname="8"
+         cx="16.473944"
+         cy="1.8650335"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.9999994" />
+      <circle
+         id="connector7pad-4-4"
+         connectorname="8"
+         cx="0.22394438"
+         cy="1.8650335"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.9999994" />
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     transform="matrix(1.1006022,0,0,1.1055484,1.0265926,-0.04067774)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18131174;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -0.05322092,0.03688206 c -0.04655509,0.0043826 -0.08214056,0.04345271 -0.08216751,0.09021361 V 1.268555 H 0.04631919 V 0.21684186 H 15.124295 V 1.268555 h 0.181707 V 0.12709567 C 15.305762,0.07684866 15.264689,0.0363865 15.214444,0.03688206 H -0.04523892 c -0.0026593,-1.1718e-4 -0.0053227,-1.1718e-4 -0.007982,0 z M 15.306002,8.9268962 H 15.124295 V 11.117264 H 0.04631919 V 8.9268962 H -0.13538843 V 11.20701 c -5.2888e-4,0.05024 0.03990469,0.09133 0.09014951,0.09162 H 15.214444 c 0.0508,5.03e-4 0.09209,-0.04082 0.09156,-0.09162 z"
+       id="rect4616"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+</svg>
