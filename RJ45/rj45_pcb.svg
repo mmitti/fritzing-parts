@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,13 +54,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:lockguides="false"
-     inkscape:zoom="8"
-     inkscape:cx="18.300792"
-     inkscape:cy="18.412238"
+     inkscape:zoom="11.313708"
+     inkscape:cx="36.512061"
+     inkscape:cy="36.524921"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="silkscreen">
+     inkscape:current-layer="copper1"
+     inkscape:measure-start="37.565,25.2957"
+     inkscape:measure-end="33.9632,25.2957">
     <sodipodi:guide
        position="1.9750003,4.3928118"
        orientation="1,0"
@@ -117,6 +119,21 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6.2011725,8.7477873"
+       orientation="1,0"
+       id="guide4506"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.8348285,7.1795284"
+       orientation="1,0"
+       id="guide4508"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.8287371,9.6818396"
+       orientation="1,0"
+       id="guide4510"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="copper0"
@@ -126,61 +143,61 @@
       <circle
          id="connector7pad"
          connectorname="8"
-         cx="12.793745"
-         cy="1.8650333"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="11.918746"
+         cy="1.8648449"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector6pad"
          connectorname="7"
-         cx="11.523745"
-         cy="4.4050331"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="10.898746"
+         cy="4.4048448"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector5pad"
          connectorname="6"
-         cx="10.253745"
-         cy="1.8650333"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="9.878746"
+         cy="1.8648449"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015786;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector3pad"
          connectorname="4"
-         cx="7.7137451"
-         cy="1.8650333"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="7.8387461"
+         cy="1.8648449"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector1pad"
          connectorname="2"
-         cx="5.1737452"
-         cy="1.8650333"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="5.7987461"
+         cy="1.8648449"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector4pad"
          connectorname="5"
-         cx="8.9837446"
-         cy="4.4050331"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="8.8587456"
+         cy="4.4048448"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector2pad"
          connectorname="3"
-         cx="6.4437451"
-         cy="4.4050331"
-         r="0.71990001"
-         style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
+         cx="6.8187461"
+         cy="4.4048448"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.38015792;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.65992105" />
       <circle
          id="connector0pad"
          connectorname="1"
-         cx="3.9037449"
+         cx="4.7787452"
          cy="4.4050331"
          r="0.71990001"
          style="fill:none;stroke:#f7bd13;stroke-width:0.43979999" />
       <path
-         d="m 2.9639451,3.4652333 h 1.8796 v 1.8796 h -1.8796 z m 0.4398,0.9398 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
+         d="m 3.8389451,3.4652333 h 1.8796 v 1.8796 h -1.8796 z m 0.4398,0.9398 a 0.5,0.5 0 1 0 1,0 0.5,0.5 0 1 0 -1,0 z"
          id="path10"
          inkscape:connector-curvature="0"
          style="fill:#f7bd13;stroke:none;stroke-width:0" />
