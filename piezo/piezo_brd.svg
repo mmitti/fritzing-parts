@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0"
+   y="0"
+   width="1.09in"
+   height="0.93970in"
+   viewBox="0 0 78.585 67.749"
+   sodipodi:docname="piezo_brd.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="2.6160831"
+     inkscape:cx="1.0983876"
+     inkscape:cy="60.395634"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="breadboard" />
+  <g
+     id="breadboard">
+    <rect
+       id="connector0pin"
+       x="34.194"
+       y="66"
+       fill="none"
+       width="1"
+       height="1" />
+    <rect
+       id="connector1pin"
+       x="41.392"
+       y="66"
+       fill="none"
+       width="1"
+       height="1" />
+    <line
+       id="connector0leg"
+       stroke-linecap="round"
+       x1="35.687"
+       y1="67.749"
+       x2="35.687"
+       y2="76.004"
+       stroke="#000000"
+       fill="none"
+       stroke-width="3" />
+    <line
+       id="connector1leg"
+       stroke-linecap="round"
+       x1="42.928"
+       y1="67.749"
+       x2="42.928"
+       y2="76.004"
+       stroke="#FF0000"
+       fill="none"
+       stroke-width="3" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="3"
+       d="M35.687,53.132v14.617"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#FF0000"
+       stroke-width="3"
+       d="M42.928,53.132v14.617"
+       id="path8" />
+    <circle
+       fill="#0D0D0D"
+       cx="39.292"
+       cy="28.367"
+       r="28.365"
+       id="circle18" />
+    <g
+       id="g22">
+      <circle
+         cx="39.292"
+         cy="28.368"
+         r="28.366"
+         id="circle20" />
+    </g>
+    <circle
+       fill="#D7D8D9"
+       cx="39.293"
+       cy="28.368"
+       r="4.814"
+       id="circle24" />
+    <path
+       fill="none"
+       stroke="#58595B"
+       stroke-width="1.8574"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="M12.529,33.369   c-1.288-6.886,0.068-14.262,4.364-20.477C25.438,0.52,42.397-2.582,54.77,5.968"
+       id="path26" />
+    <path
+       fill="none"
+       stroke="#303032"
+       stroke-width="1.8574"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="M27.925,53.108   c13.667,6.275,29.833,0.289,36.108-13.377c3.422-7.449,3.198-15.645,0.071-22.574"
+       id="path44" />
+  </g>
+</svg>
